@@ -1,0 +1,16 @@
+F:\@MyFiverrProjects\Programming Projects\Project32\Shoe Manufacturing\Shoe Manufacturing\bin\Debug\Shoe Manufacturing.exe.config
+F:\@MyFiverrProjects\Programming Projects\Project32\Shoe Manufacturing\Shoe Manufacturing\bin\Debug\Shoe Manufacturing.exe
+F:\@MyFiverrProjects\Programming Projects\Project32\Shoe Manufacturing\Shoe Manufacturing\bin\Debug\Shoe Manufacturing.pdb
+F:\@MyFiverrProjects\Programming Projects\Project32\Shoe Manufacturing\Shoe Manufacturing\obj\Debug\Shoe Manufacturing.csprojResolveAssemblyReference.cache
+F:\@MyFiverrProjects\Programming Projects\Project32\Shoe Manufacturing\Shoe Manufacturing\obj\Debug\Shoe_Manufacturing.LoginForm.resources
+F:\@MyFiverrProjects\Programming Projects\Project32\Shoe Manufacturing\Shoe Manufacturing\obj\Debug\Shoe_Manufacturing.Properties.Resources.resources
+F:\@MyFiverrProjects\Programming Projects\Project32\Shoe Manufacturing\Shoe Manufacturing\obj\Debug\Shoe Manufacturing.csproj.GenerateResource.Cache
+F:\@MyFiverrProjects\Programming Projects\Project32\Shoe Manufacturing\Shoe Manufacturing\obj\Debug\Shoe Manufacturing.exe
+F:\@MyFiverrProjects\Programming Projects\Project32\Shoe Manufacturing\Shoe Manufacturing\obj\Debug\Shoe Manufacturing.pdb
+F:\@MyFiverrProjects\Programming Projects\Project32\Shoe Manufacturing\Shoe Manufacturing\obj\Debug\Shoe_Manufacturing.btnStockPosition.resources
+F:\@MyFiverrProjects\Programming Projects\Project32\Shoe Manufacturing\Shoe Manufacturing\obj\Debug\Shoe_Manufacturing.ProductionEntry.resources
+F:\@MyFiverrProjects\Programming Projects\Project32\Shoe Manufacturing\Shoe Manufacturing\obj\Debug\Shoe_Manufacturing.UpperEntryForm.resources
+F:\@MyFiverrProjects\Programming Projects\Project32\Shoe Manufacturing\Shoe Manufacturing\obj\Debug\Shoe_Manufacturing.PatavaEntryForm.resources
+F:\@MyFiverrProjects\Programming Projects\Project32\Shoe Manufacturing\Shoe Manufacturing\obj\Debug\Shoe_Manufacturing.ShoesStockForm.resources
+F:\@MyFiverrProjects\Programming Projects\Project32\Shoe Manufacturing\Shoe Manufacturing\obj\Debug\Shoe_Manufacturing.UpperStockForm.resources
+F:\@MyFiverrProjects\Programming Projects\Project32\Shoe Manufacturing\Shoe Manufacturing\obj\Debug\Shoe_Manufacturing.PatavaStockForm.resources
